@@ -1,0 +1,6 @@
+# TarpitPlugin Configuration
+tarpit:
+  # Delay in seconds before rejecting non-whitelisted players
+  delay: 30
+  # Message to show to non-whitelisted players
+  message: "§c§lAccess Denied\n§r§cYou are not whitelisted on this server\n§eContact an administrator to get access"
