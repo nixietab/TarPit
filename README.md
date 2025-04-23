@@ -8,10 +8,9 @@ A Minecraft plugin that implements a tarpit mechanism for non-whitelisted player
 
 ## Features
 
-- 🕒 Configurable connection delay for non-whitelisted players
-- 💬 Customizable rejection messages
-- 🔒 Works with Minecraft's built-in whitelist system
-- 🛡️ Helps protect against automated connection attempts
+-  Configurable connection delay for non-whitelisted players
+-  Works with Minecraft's built-in whitelist system
+-  Helps protect against automated connection attempts
 
 ## Requirements
 
